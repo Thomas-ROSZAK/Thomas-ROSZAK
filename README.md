@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my activities
 - 📫 How to reach me: thomasroszak@protonmail.com 
 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/Thomas-ROSZAK/Thomas-ROSZAK/blob/main/img/xps-pduutGbL2-M-unsplash.jpg)
 
 -->
