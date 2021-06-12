@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Thomas-ROSZAK/Thomas-ROSZAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on severasl projects
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 
 ![Cover](https://github.com/Thomas-ROSZAK/Thomas-ROSZAK/blob/main/img/xps-pduutGbL2-M-unsplash.jpg)
 
--->
