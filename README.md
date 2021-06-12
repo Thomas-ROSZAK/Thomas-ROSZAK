@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my activities
 - 📫 How to reach me: thomasroszak@protonmail.com 
 
-![Cover] (https://github.com/Thomas-ROSZAK/Thomas-ROSZAK/blob/main/img/spirited_away1-1024x638.png)
+![Cover](https://github.com/Thomas-ROSZAK/Thomas-ROSZAK/blob/main/img/spirited_away1-1024x638.png)
 
 
